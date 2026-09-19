@@ -1,8 +1,7 @@
 # Portfolio
 
-Understanding the structure of decision making in card games, 
-whether by building an exact probability solver
-or mapping every line of a combo.
+Understanding the structure of decision making in card games 
+by building an exact probability solver.
 
 ## [`probability-model/`](./probability-model)
 
