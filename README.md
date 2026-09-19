@@ -1,8 +1,3 @@
-# Portfolio
-
-Understanding the structure of decision making in card games 
-by building an exact probability solver.
-
 ## [`probability-model/`](./probability-model)
 
 An exact probability solver for evaluating fixed play actions in card
