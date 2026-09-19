@@ -36,7 +36,7 @@ cases (see `solve_bruteforce`, used to validate `solve_exact`).
 | File | What it is |
 |---|---|
 | `policy_automaton.py` | Generic solver: game state, effect primitives (`Draw`, `Tutor`, `AddMana`, etc.), and multiple solve modes (`solve_exact`, `solve_bruteforce`, `solve_optimal`, `solve_with_progress`) |
-| `miracle_rogue.py` | Deck definition, card effects, and hand-coded policy for a specific Miracle Rogue (Pressure Points) build |
+| `miracle_rogue.py` | Deck definition, card effects, and hand-coded policy for a specific build |
 | `yuge.py` | Run script - sets up a starting hand/deck and solves for probability of reaching the win condition |
 | `archive/` | Earlier drafts, kept for reference |
 
